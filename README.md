@@ -5,7 +5,7 @@
 ## Folder 1: utils
 It contains the different python files that include useful functions and classes.
 ## Folder 2: Data
-It contains a text file of drive link to have all necessary data
+It contains a text file that has the drive link to all necessary data
 ## Notebooks Description :
 * `Text_Preprocessing_and_Embbeding.ipynb`: it contains all preprocessing steps for text data, and embedding using Doc2Vec and S-BERT.
 * `Node_embedding.ipynb`: it contains the embedding of the nodes using deepwalk for weighted and unweighted versions of the graph.
